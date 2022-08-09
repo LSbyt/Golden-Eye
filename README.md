@@ -1,7 +1,5 @@
 # GoldenEye
 
-<img src='./logo.svg' width='264'/>
-
 ## Quick guide
 
 #### Add dependency
