@@ -2,4 +2,4 @@
 
 # Add Dependency
 
-git branch implementation 'co.infinum:goldeneye:1.1.2'
+- implementation 'co.infinum:goldeneye:1.1.2'
