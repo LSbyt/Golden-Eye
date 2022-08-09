@@ -1,8 +1,8 @@
-### Golden-Eye
+# Golden-Eye
 
-##Quick Guide
+## Quick Guide
 
-# Add Dependency
+### Add Dependency
 
 ```gradle
 implementation 'co.infinum:goldeneye:1.1.2'
